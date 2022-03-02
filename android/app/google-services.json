@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167974981274",
+    "project_id": "finwallet-6ef19",
+    "storage_bucket": "finwallet-6ef19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167974981274:android:73e2ae02d9c19f26299923",
+        "android_client_info": {
+          "package_name": "com.google.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167974981274-b37n9nh636ev17tv0hftid4i0rkqs3aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.finwallet",
+            "certificate_hash": "b7b61d1f3223b440104f1345f8a41886ce48d94c"
+          }
+        },
+        {
+          "client_id": "167974981274-acbs0cr1r3t2devathf9ajgh16feh65r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-lxVNXEyOJMRglvFUQW812AnRKcnZno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167974981274-acbs0cr1r3t2devathf9ajgh16feh65r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
